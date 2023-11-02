@@ -1,4 +1,6 @@
 ### So what brought you here? 🤔
+> _Do you believe in love at first byte, or should we debug our compatibility?_
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmenewbie03&show_icons=true&theme=merko&count_private=true)
 <!--
 **itsmenewbie03/itsmenewbie03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
