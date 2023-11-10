@@ -10,7 +10,7 @@
 <p align="center">
  &emsp;
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsmenewbie03&show_icons=true&theme=merko&count_private=true"/>
- <img width="48%" src="https://streak-stats.demolab.com/?user=itsmenewbie03&theme=merko"/>
+ <img width="48%" height="300px" src="https://streak-stats.demolab.com/?user=itsmenewbie03&theme=merko"/>
 </p>
 
 ### 🔝 Most used languages
