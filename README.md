@@ -5,10 +5,16 @@
 
 ### So what brought you here? 🤔
 > _Do you believe in love at first byte, or should we debug our compatibility?_
-> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmenewbie03&layout=compact&hide=java&theme=merko)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmenewbie03&show_icons=true&theme=merko&count_private=true)<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itsmenewbie03&theme=dark)](https://git.io/streak-stats)
+
+### 📈 Stats
+<p align="center">
+ &emsp;
+ <img src="https://github-readme-stats.vercel.app/api?username=itsmenewbie03&show_icons=true&theme=merko&count_private=true"/>
+ <img src="https://streak-stats.demolab.com/?user=itsmenewbie03&theme=dark"/>
+</p>
+
+### 🔝 Most used languages
+&emsp;&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmenewbie03&layout=compact&hide=java&theme=merko"/>
 <!--
 **itsmenewbie03/itsmenewbie03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
