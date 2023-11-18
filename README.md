@@ -5,7 +5,8 @@
 
 ### So what brought you here? 🤔
 > _Do you believe in love at first byte, or should we debug our compatibility?_
-
+### 👀 Visitor Count
+![](https://komarev.com/ghpvc/?username=itsmenewbie03&style=for-the-badge&color=green)
 ### 📈 Stats
 <p align="center">
  &emsp;
