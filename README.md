@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://imageupload.io/ib/Y4ydC35jMtlS6HY_1699593796.png" align="center" alt="GitHub Readme Stats" style="border-radius: 50%; display: block; margin: auto;" />
+ <img width="100px" src="https://raw.githubusercontent.com/itsmenewbie03/itsmenewbie03/main/shit_1-modified.png" align="center" alt="GitHub Readme Stats" style="border-radius: 50%; display: block; margin: auto;" />
  <h2 align="center">Hi👋🏻, itsmenewbie03</h2>
 </p>
 
