@@ -2,16 +2,11 @@
  <img width="100px" src="https://raw.githubusercontent.com/itsmenewbie03/itsmenewbie03/main/shit_1-modified.png" align="center" alt="GitHub Readme Stats" style="border-radius: 50%; display: block; margin: auto;" />
  <h2 align="center">Hi👋🏻, itsmenewbie03</h2>
 </p>
+<img align="center" src="https://skillicons.dev/icons?i=ts,js,nodejs,python,svelte,regex,neovim,vim,postman,discord,mongodb,express,git,github&theme=dark"/>
+<img src="https://komarev.com/ghpvc/?username=itsmenewbie03&style=for-the-badge&color=green"/>
 
 ### So what brought you here? 🤔
 > _Do you believe in love at first byte, or should we debug our compatibility?_
-
-### 👀 Visitor Count
-![](https://komarev.com/ghpvc/?username=itsmenewbie03&style=for-the-badge&color=green)
-
-### 📈 Productivity Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmenewbie03&theme=merko"  display=block width=100% height=auto  alt="1" >
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmenewbie03&area=true&theme=merko&hide_border=true" display=block width=100% height=auto alt="3">
 
 ### 📈 Stats
 <p align="center">
@@ -22,6 +17,11 @@
 
 ### 🔝 Most used languages
 &emsp;&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmenewbie03&layout=compact&hide=java&theme=merko"/>
+
+### 📈 Productivity Stats
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmenewbie03&theme=merko"  display=block width=100% height=auto  alt="1" >
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmenewbie03&area=true&theme=merko&hide_border=true" display=block width=100% height=auto alt="3">
+
 <!--
 **itsmenewbie03/itsmenewbie03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
