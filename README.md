@@ -4,6 +4,7 @@
 </p>
 <img align="center" src="https://skillicons.dev/icons?i=ts,js,nodejs,python,svelte,regex,neovim,vim,postman,discord,mongodb,express,git,github&theme=dark"/>
 <img src="https://komarev.com/ghpvc/?username=itsmenewbie03&style=for-the-badge&color=green"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AAD100&random=false&width=435&lines=Welcome+to+my+github+profile!;Programming+is+my+passion.;I+love+coffee.;I+use+neovim+BTW.;I+love+my+mom."/>
 
 ### So what brought you here? 🤔
 > _Do you believe in love at first byte, or should we debug our compatibility?_
