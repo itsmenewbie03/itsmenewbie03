@@ -2,7 +2,7 @@
  <img width="100px" src="https://raw.githubusercontent.com/itsmenewbie03/itsmenewbie03/main/shit_1-modified.png" align="center" alt="GitHub Readme Stats" style="border-radius: 50%; display: block; margin: auto;" />
  <h2 align="center">Hi👋🏻, itsmenewbie03</h2>
 </p>
-<img align="center" src="https://skillicons.dev/icons?i=ts,js,nodejs,python,svelte,regex,neovim,vim,postman,discord,mongodb,express,git,github&theme=dark"/>
+<img align="center" src="https://skillicons.dev/icons?i=ts,js,nodejs,python,rust,svelte,regex,neovim,vim,postman,discord,mongodb,express,git,github&theme=dark"/>
 <img src="https://komarev.com/ghpvc/?username=itsmenewbie03&style=for-the-badge&color=green"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&color=AAD100&height=30&random=false&width=435&lines=Welcome+to+my+github+profile!;Programming+is+my+passion.;I+love+coffee.;I+use+neovim+BTW.;I+love+my+mom."/>
 
