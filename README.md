@@ -29,5 +29,4 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmenewbie03&area=true&theme=merko&hide_border=true" display=block width=100% height=auto alt="3">
 
 ### 📈 Typing Stats
-
-<img src="https://monkeytype-readme.com/generate-svg/itsmenewbie03/monokai?pb=true"/>
+> Coming soon xD
