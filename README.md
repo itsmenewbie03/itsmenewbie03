@@ -4,6 +4,7 @@
 </p>
 <img align="center" src="https://skillicons.dev/icons?i=ts,js,nodejs,python,rust,svelte,regex,neovim,vim,postman,discord,mongodb,express,git,github&theme=dark"/>
 <p> <img src="https://komarev.com/ghpvc/?username=itsmenewbie03&style=for-the-badge&color=green"/>
+ <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fitsmenewbie03%2Fitsmenewbie03%2Fmain%2Fres.json&query=%24.wpm&suffix=WPM&style=for-the-badge&logo=monkeytype&label=MONKEYTYPE&color=%23e0b114"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fitsmenewbie03.is-a.dev%2Fapi%2Frrizz&query=%24.rizz&style=for-the-badge&logo=rust&label=Random%20Rust%20Rizz&color=%23CE422B"/> <a href="https://itsmenewbie03.is-a.dev"><img src="https://img.shields.io/website?url=https%3A%2F%2Fitsmenewbie03.is-a.dev&style=for-the-badge&logo=svelte&label=portfolio%20website"/></a>
 </p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&color=AAD100&height=30&random=false&width=435&lines=Welcome+to+my+github+profile!;Programming+is+my+passion.;I+love+coffee.;I+use+neovim+BTW.;I+love+my+mom."/>
