@@ -20,7 +20,7 @@
 </p>
 
 ### 🔝 Most used languages
-&emsp;&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmenewbie03&layout=compact&hide=java&theme=merko"/>
+&emsp;&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmenewbie03&layout=compact&hide=java,blade,css,html&theme=merko"/>
 
 ### 📈 Productivity Stats
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmenewbie03&theme=merko"  display=block width=100% height=auto  alt="1" >
