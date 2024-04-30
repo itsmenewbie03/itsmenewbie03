@@ -22,6 +22,7 @@
 
 ### 🔝 Most used languages
 &emsp;&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmenewbie03&layout=compact&hide=java,blade,css,html,scss&theme=merko"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsmenewbie03&theme=merko&layout=compact&langs_count=6&custom_title=Time%20Well%20Spent"/>
 
 ### 📈 Productivity Stats
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmenewbie03&theme=merko"  display=block width=100% height=auto  alt="1" >
