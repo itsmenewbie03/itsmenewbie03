@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://raw.githubusercontent.com/itsmenewbie03/itsmenewbie03/main/shit_1-modified.png" align="center" alt="GitHub Readme Stats" style="border-radius: 50%; display: block; margin: auto;" />
  <h2 align="center">Hi👋🏻, itsmenewbie03</h2>
- <p align="center">~ <i>Learning the Art of Responding</i> ~</p>
+ <p align="center">~ <i>Learning the Art of Responding</i> ~</p> 
 </p>
 <img align="center" src="https://skillicons.dev/icons?i=ts,js,nodejs,python,rust,svelte,regex,neovim,vim,postman,discord,mongodb,express,git,github&theme=dark"/>
 <p> <img src="https://komarev.com/ghpvc/?username=itsmenewbie03&style=for-the-badge&color=green"/>
