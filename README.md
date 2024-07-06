@@ -5,7 +5,7 @@
 </p>
 <img align="center" src="https://skillicons.dev/icons?i=ts,js,nodejs,python,rust,svelte,regex,neovim,vim,postman,discord,mongodb,express,git,github&theme=dark"/>
 <p> <img src="https://komarev.com/ghpvc/?username=itsmenewbie03&style=for-the-badge&color=green"/>
- <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fitsmenewbie03%2Fitsmenewbie03%2Fmain%2Fres.json&query=%24.wpm&suffix=WPM&style=for-the-badge&logo=monkeytype&label=MONKEYTYPE&color=%23e0b114"/>
+ <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fitsmenewbie03%2Fitsmenewbie03%2Fmain%2Fres.json&query=%24.wpm&suffix=WPM&style=for-the-badge&logo=monkeytype&label=MONKEYTYPE&color=%23e0b114"/> 
 <a href="https://itsmenewbie03.github.io"><img src="https://img.shields.io/website?url=https%3A%2F%2Fitsmenewbie03.github.io&style=for-the-badge&logo=svelte&label=portfolio%20website"/></a> <img src="https://wakatime.com/badge/user/018df266-8e87-4591-8dfd-685be1437f29.svg?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fprogramming-quotesapi.vercel.app%2Fapi%2Frandom%3Fauthor%3DLinus%2520Torvalds&query=quote&style=for-the-badge&label=Torvalds%20Once%20Said&color=%23CE422B&logo=linux&logoColor=white"/> 
 </p>
