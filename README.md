@@ -17,7 +17,7 @@
 ### 📈 Stats
 <div>
 &emsp;&emsp;
- <img width="423" src="https://github-readme-stats.vercel.app/api?username=itsmenewbie03&show_icons=true&theme=merko&count_private=true&hide_border=true&custom_title=My%20Stats%20BTW"/>
+ <img width="420" src="https://github-readme-stats.vercel.app/api?username=itsmenewbie03&show_icons=true&theme=merko&count_private=true&hide_border=true&custom_title=My%20Stats%20BTW"/>
  <img width="423" src="https://streak-stats.demolab.com/?user=itsmenewbie03&theme=merko&hide_border=true"/>
 </div>
 
