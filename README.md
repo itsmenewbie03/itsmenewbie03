@@ -17,8 +17,8 @@
 ### 📈 Stats
 <p>
 &emsp;&emsp;
- <img width="70%" src="https://github-readme-stats.vercel.app/api?username=itsmenewbie03&show_icons=true&theme=merko&count_private=true&hide_border=true&custom_title=My%20Stats%20BTW"/>
- <img width="70%" src="https://streak-stats.demolab.com/?user=itsmenewbie03&theme=merko&hide_border=true"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=itsmenewbie03&show_icons=true&theme=merko&count_private=true&hide_border=true&custom_title=My%20Stats%20BTW"/>
+ <img src="https://streak-stats.demolab.com/?user=itsmenewbie03&theme=merko&hide_border=true"/>
 </p>
 ### 🔝 Most used languages
 &emsp;&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmenewbie03&layout=compact&hide=java,blade,css,html,scss&theme=merko"/>
