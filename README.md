@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center">
  <img width="100px" src="https://raw.githubusercontent.com/itsmenewbie03/itsmenewbie03/main/shit_1-modified.png" align="center" alt="GitHub Readme Stats" style="border-radius: 50%; display: block; margin: auto;" />
  <h2 align="center">Hi👋🏻, itsmenewbie03</h2>
  <p align="center">~ <i>Learning the Art of Responding</i> ~</p>   
@@ -12,9 +12,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&color=AAD100&height=30&random=false&width=435&lines=Welcome+to+my+github+profile!;Programming+is+my+passion.;I+love+coffee.;I+use+neovim+BTW.;I+love+my+mom."/>
 
 ### So what brought you here? 🤔
+
 > I'm still learning but feel free to learn from what i share.
 
 ### 📈 Stats
+
 <div>
 &emsp;&emsp;
  <img width="380" src="https://github-readme-stats.vercel.app/api?username=itsmenewbie03&show_icons=true&theme=merko&count_private=true&hide_border=true&custom_title=My%20Stats%20BTW"/>
@@ -22,9 +24,11 @@
 </div>
 
 ### 🔝 Most used languages
+
 &emsp;&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmenewbie03&layout=compact&hide=java,blade,css,html,scss&theme=merko"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsmenewbie03&theme=merko&layout=compact&langs_count=6&custom_title=Time%20Well%20Spent"/>
 
 ### 📈 Productivity Stats
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmenewbie03&theme=merko"  display=block width=100% height=auto  alt="1" >
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmenewbie03&area=true&theme=merko&hide_border=true" display=block width=100% height=auto alt="3">
