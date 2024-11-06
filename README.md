@@ -10,11 +10,6 @@
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fprogramming-quotesapi.vercel.app%2Fapi%2Frandom%3Fauthor%3DLinus%2520Torvalds&query=quote&style=for-the-badge&label=Torvalds%20Once%20Said&color=%23CE422B&logo=linux&logoColor=white"/> 
 </p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&color=AAD100&height=30&random=false&width=435&lines=Welcome+to+my+github+profile!;Programming+is+my+passion.;I+love+coffee.;I+use+neovim+BTW.;I+love+my+mom."/>
-
-### So what brought you here? 🤔
-
-> I'm still learning but feel free to learn from what i share.
-
 ### 📈 Stats
 
 <div>
