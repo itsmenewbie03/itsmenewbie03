@@ -14,7 +14,7 @@
 <div>
 &emsp;&emsp;
  <img width="380" src="https://github-readme-stats.vercel.app/api?username=itsmenewbie03&show_icons=true&theme=merko&count_private=true&hide_border=true&custom_title=My%20Stats%20BTW"/>
- <img width="423" height="158.667" src="https://github-readme-streak-stats-eight.vercel.app?user=itsmenewbie03&theme=merko&hide_border=true"/>
+ <img width="423" height="158.667" src="https://github-readme-streak-stats-eight.vercel.app?user=itsmenewbie03&theme=merko&hide_border=true&nop=false"/>
 </div>
 
 ### 🔝 Most used languages
