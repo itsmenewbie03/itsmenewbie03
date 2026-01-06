@@ -14,14 +14,14 @@
 
 <div>
 &emsp;&emsp;
- <img width="380" src="https://github-readme-stats.vercel.app/api?username=itsmenewbie03&show_icons=true&theme=merko&count_private=true&hide_border=true&custom_title=My%20Stats%20BTW"/>
+ <img width="380" src="https://readme-stats-fast.vercel.app/api?username=itsmenewbie03&show_icons=true&theme=merko&count_private=true&hide_border=true&custom_title=My%20Stats%20BTW"/>
  <img width="423" height="158.667" src="https://github-readme-streak-stats-eight.vercel.app?user=itsmenewbie03&theme=merko&hide_border=true&nop=whatever"/>
 </div>
 
 ### 🔝 Most used languages
 
-&emsp;&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmenewbie03&layout=compact&hide=java,blade,css,html,scss&theme=merko"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsmenewbie03&theme=merko&layout=compact&langs_count=6&custom_title=Time%20Well%20Spent"/>
+&emsp;&emsp;<img src="https://readme-stats-fast.vercel.app/api/top-langs/?hide_border=true&username=itsmenewbie03&layout=compact&hide=java,blade,css,html,scss&theme=merko"/>
+<img src="https://readme-stats-fast.vercel.app/api/wakatime?hide_border=true&username=itsmenewbie03&theme=merko&layout=compact&langs_count=6&custom_title=Time%20Well%20Spent"/>
 
 ### 📈 Productivity Stats
 
